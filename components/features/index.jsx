@@ -6,7 +6,7 @@ const Feature = () => {
   return (
     <div className="box flex flex-col gap-3 text-center mt-10">
       <h1 className="heading mx-auto text-5xl font-sans ">
-        Beyond Consultancy, here's what you get
+        Beyond Consultancy, here what you get
       </h1>
       <h3 className="heading text font-sans">
         The tools you need to turbocharge your operation

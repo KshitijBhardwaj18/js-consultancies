@@ -5,11 +5,11 @@ const About = () => {
     <div className="about m-2 p-5 flex flex-col gap-5 md:flex-row">
       <div className="headings flex flex-col gap-5 text center ">
         <h1 className="heading text-5xl md:text-7xl font-bold font-sans">
-          What's different at Sternberg's
+          What&apos;s different at Sternberg&apos;s
         </h1>
 
         <h6 className="subheading text-xl text-co p-2">
-          Sternberg's provide all the functionality your team needs, without the
+          Sternberg&apos;s provide all the functionality your team needs, without the
           complexity. Our software is tailor-made for modern digital products
         </h6>
       </div>

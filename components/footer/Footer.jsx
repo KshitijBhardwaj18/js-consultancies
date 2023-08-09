@@ -11,7 +11,7 @@ const Footer = () => {
           className="lg:text-4xl text-3xl md:mb-0 mb-6 lg:leading-normal font-semibold
          md:w-2/5"
         >
-          <span className="text-black font-sans font-bold">Sternberg's Consultancy</span> 
+          <span className="text-black font-sans font-bold">Sternberg&apos;s Consultancy</span> 
         </h1>
         <div>
           <input
