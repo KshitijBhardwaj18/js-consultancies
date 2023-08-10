@@ -1,6 +1,9 @@
 import React from "react";
 import Image from "next/image";
 import feature1 from "@/public/assets/feature1.png";
+import feature2 from "@/public/assets/feature2.png"
+import feature3 from "@/public/assets/feature3.png"
+import feature4 from "@/public/assets/feature4.png" 
 
 const Feature = () => {
   return (
@@ -26,7 +29,7 @@ const Feature = () => {
         </div>
 
         <div className="card1 flex flex-col md:flex-row gap-4 p-10">
-          <Image className="md:h-40 md:w-auto " src={feature1} alt="feature1" />
+          <Image className="md:h-40 md:w-auto " src={feature2} alt="feature1" />
 
           <div className="flex flex-col">
             <h4 className="head text-3xl font-sans text-left">Tips</h4>
@@ -38,7 +41,7 @@ const Feature = () => {
         </div>
 
         <div className="card1 flex flex-col md:flex-row gap-4 p-10">
-          <Image className="md:h-40 md:w-auto " src={feature1} alt="feature1" />
+          <Image className="md:h-40 md:w-auto " src={feature3} alt="feature1" />
 
           <div className="flex flex-col">
             <h4 className="head text-3xl font-sans text-left">Tips</h4>
@@ -50,7 +53,7 @@ const Feature = () => {
         </div>
 
         <div className="card1 flex flex-col md:flex-row gap-4 p-10">
-          <Image className="md:h-40 md:w-auto " src={feature1} alt="feature1" />
+          <Image className="md:h-40 md:w-auto " src={feature4} alt="feature1" />
 
           <div className="flex flex-col">
             <h4 className="head text-3xl font-sans text-left">Tips</h4>
