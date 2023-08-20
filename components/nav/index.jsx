@@ -1,16 +1,10 @@
 "use client";
 import React from "react";
 import { useState } from "react";
-import { makeStyles } from '@mui/styles';
+
 import logo from "@/public/assets/logo1.png";
 import Image from "next/image";
-import MenuRoundedIcon from '@mui/icons-material/MenuRounded'; 
-import { Dropdown } from '@mui/base/Dropdown';
-import { Menu } from '@mui/base/Menu';
-import { MenuButton } from '@mui/base/MenuButton';
-import { MenuItem } from '@mui/base/MenuItem';
-import Dropdow from "./Dropdow.jsx"
-import SlidingMenu from "./sm.jsx";
+
 
 import { Drawer,Box, Button, Typography, IconButton } from '@mui/material';
 
