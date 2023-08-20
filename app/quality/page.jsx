@@ -69,18 +69,18 @@ const Quality = () => (
           <span className="sub font-sans2">
             Post-Implementation Support and Assistance:{" "}
           </span>
-          After the QMS implementation, we won't leave you alone: We offer a
+          After the QMS implementation, we won&aspos;t leave you alone: We offer a
           free email support for all implementation services (ISO 9001, ISO
           13485) for 6 months after the implementation. This way, you can be
           sure that you have a point of contact for any later queries.
         </div>
 
         <h3 className="sub-heading  font-sans2 text-3xl pt-5 ">
-          Our "All-In-One Package"
+          Our &rdquo;All-In-One Package&rdquo;
         </h3>
 
         <div className="para font-sans text-xl pt-3">
-          After the QMS implementation, we won't leave you alone: We offer a
+          After the QMS implementation, we won&aspos;t leave you alone: We offer a
           free email support for all implementation services (ISO 9001, ISO
           13485) for 6 months after the implementation. This way, you can be
           sure that you have a point of contact for any later queries.
@@ -98,7 +98,7 @@ const Quality = () => (
         <span className="sub font-sans2 text-xl">GAP Analysis </span>
         <div className="font-sans text-xl" >
           We kick-off your project with a comprehensive GAP analysis. This helps
-          us to identify and rectify any discrepancies between your company's
+          us to identify and rectify any discrepancies between your company&aspos;s
           current processes and the requirements of DIN EN ISO 9001.
         </div>
 
@@ -125,10 +125,10 @@ const Quality = () => (
           We understand that the requirements of companies can vary depending on
           size and objectives. Therefore, we offer customizable quality
           standards. For companies looking for a fast and efficient solution
-          that meets all basic needs, we offer a 'Basic' standard. On the other
+          that meets all basic needs, we offer a &aspos;Basic&aspos; standard. On the other
           hand, if your company is looking for a deep, highly professional
           approach aiming for the implementation of maximum quality, we offer a
-          'Premium' standard. Both approaches are designed to optimize and
+          &aspos;Premium&aspos; standard. Both approaches are designed to optimize and
           improve your quality management process, taking into account different
           depths and budget requirements.
         </div>
@@ -144,7 +144,7 @@ const Quality = () => (
         <span className="sub font-sans2 text-xl">Support After Introduction</span>
         <div className="font-sans text-xl">
           But our commitment to your quality does not end with certification.
-          Our "All-In-One Package" also includes 6 months of support after the
+          Our &rdquo;All-In-One Package&rdquo; also includes 6 months of support after the
           introduction of your quality management system to ensure that your
           company extracts the full potential from its QM system.
         </div>
@@ -213,7 +213,7 @@ const Quality = () => (
         <h3 className="sub-heading  font-sans2 text-3xl pt-5 ">External QMR</h3>
 
         <div className="para font-sans text-xl pt-3">
-          Ensure your company's quality with our External Quality Management
+          Ensure your company&aspos;s quality with our External Quality Management
           Representative (QMR) service. Especially for smaller companies or
           those in a transitional phase, having their own QMR often represents a
           too high investment. Here we provide a solution. We have extensive

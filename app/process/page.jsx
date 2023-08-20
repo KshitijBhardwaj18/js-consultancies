@@ -23,7 +23,7 @@ const process = () => {
             Individual Consulting Offers
           </h3>
           <div className="para font-sans text-xl pt-1">
-            Whether it's quality issues, process optimization, or supplier
+            Whether it&aspos;s quality issues, process optimization, or supplier
             management - our broad range of consulting services covers all
             aspects of quality management. We offer individual solutions
             tailored to the needs of your company.
@@ -49,7 +49,7 @@ const process = () => {
               <p className="text-xl">
                 Before a problem can be solved, it must be precisely identified.
                 We use proven analysis methods to pinpoint the core of your
-                quality problem. In this process, we don't just examine obvious
+                quality problem. In this process, we don&aspos;t just examine obvious
                 symptoms but dig deeper to determine the actual causes.{" "}
               </p>
             </div>
@@ -77,9 +77,9 @@ const process = () => {
                 recommendations. We develop specific solution approaches that
                 are realistic, actionable, and tailored to your company, taking
                 into account your specific resources, requirements, and goals.
-                Quality is not just a word; it's a promise to your customers and
-                our most valuable asset for ongoing success. Let's work together
-                to fulfill this promise and move your business forward. .{" "}
+                Quality is not just a word; it&aspos;s a promise to your customers and
+                our most valuable asset for ongoing success. Let&aspos;s work together
+                to fulfill this promise and move your business forward.{" "}
               </p>
             </div>
           </div>
@@ -106,7 +106,7 @@ const process = () => {
               we implement a risk management system that seamlessly integrates
               into your quality management. This system is tailored specifically
               to your needs and follows the recognized standards and best
-              practices of the industry. .{" "}
+              practices of the industry. {" "}
             </p>
           </div>
           <div className="pointer pt-3">
@@ -142,8 +142,8 @@ const process = () => {
               recommendations. We develop specific solution approaches that are
               realistic, actionable, and tailored to your company, taking into
               account your specific resources, requirements, and goals. Quality
-              is not just a word; it's a promise to your customers and our most
-              valuable asset for ongoing success. Let's work together to fulfill
+              is not just a word; it&aspos;s a promise to your customers and our most
+              valuable asset for ongoing success. Let&aspos;s work together to fulfill
               this promise and move your business forward. {" "}
             </p>
           </div>
@@ -194,9 +194,9 @@ const process = () => {
               establish efficient processes and communication channels with your
               suppliers, ensuring smooth cooperation that benefits both parties.
               Continuous monitoring and adjustment The market and requirements
-              change. Therefore, it's essential that your supplier management
+              change. Therefore, it&aspos;s essential that your supplier management
               remains flexible and adaptable. We support you in regular reviews
-              and help you make swift and efficient adjustments when needed. .{" "}
+              and help you make swift and efficient adjustments when needed. {" "}
             </p>
           </div>
           <h3 className="sub-heading  font-sans2 text-3xl pt-2 ">
@@ -208,7 +208,7 @@ const process = () => {
             just a desirable feature but a decisive criterion for business
             success. Customer expectations are constantly rising, and companies
             must not only meet but exceed these expectations to remain
-            competitive. .{" "}
+            competitive. {" "}
           </p>
           <div className="pointer pt-2">
             <h3 className="font-extrabold font-sans2 text-2xl ">
@@ -270,7 +270,7 @@ const process = () => {
               establish efficient processes and communication channels with your
               suppliers, ensuring smooth cooperation that benefits both parties.
               Continuous monitoring and adjustment The market and requirements
-              change. Therefore, it's essential that your supplier management
+              change. Therefore, it&aspos;s essential that your supplier management
               remains flexible and adaptable. We support you in regular reviews
               and help you make swift and efficient adjustments when needed. .{" "}
             </p>
@@ -292,15 +292,15 @@ const process = () => {
           </h3>
           <p className="text-xl">
             Our main concern is to create genuine added value for your company
-            through digitalization. It's not just about implementing digital
-            tools but rather specifically enhancing your company's efficiency
+            through digitalization. It&aspos;s not just about implementing digital
+            tools but rather specifically enhancing your company&aspos;s efficiency
             and performance. .{" "}
           </p>
           <h3 className="font-extrabold font-sans2 text-2xl ">
             Identifying the Low Hanging Fruits
           </h3>
           <p className="text-xl">
-            We specialize in identifying the so-called "low hanging fruits" in
+            We specialize in identifying the so-called &rdquo;low hanging fruits&rdquo; in
             your quality management process – the areas where maximum benefit
             can be achieved with minimal effort. This ensures quick successes
             and an immediate return on investment.{" "}
@@ -330,7 +330,7 @@ const process = () => {
             With the digitalization of your quality management, data becomes one
             of your most valuable assets. We show you how to collect, analyze,
             and use this data to make informed decisions and drive continuous
-            improvements. .{" "}
+            improvements.{" "}
           </p>
           <h3 className="font-extrabold font-sans2 text-2xl ">
             Employee Training
@@ -352,7 +352,7 @@ const process = () => {
             Your Partner for Digital Transformation
           </h3>
           <p className="text-xl">
-            Digitalization is more than just a trend; it's the future of
+            Digitalization is more than just a trend; it&aspos;s the future of
             business operations. By combining industry-leading knowledge with a
             practical approach to implementation, we are your ideal partner on
             the path to digitizing your quality management processes. .{" "}
@@ -433,7 +433,7 @@ const process = () => {
             First, we impart the necessary knowledge to your team about the five
             pillars of 5S: Sort, Systematize, Clean, Standardize, and
             Self-discipline. This includes training to ensure that all employees
-            understand the benefits and principles of 5S. .{" "}
+            understand the benefits and principles of 5S.{" "}
           </p>
           <h3 className="font-extrabold font-sans2 text-2xl mt-3 ">
             Current State Analysis
@@ -471,11 +471,11 @@ const process = () => {
             Why 5S is Crucial
           </h3>
           <p className="text-xl">
-            5S is not just a workplace organization system. It's a philosophy
+            5S is not just a workplace organization system. It&aspos;s a philosophy
             that promotes a culture of continuous improvement, boosts
             efficiency, and increases employee satisfaction and motivation. With
             our expertise and guidance, 5S becomes more than just a method – it
-            becomes an integral part of your corporate culture. Let's embark on
+            becomes an integral part of your corporate culture. Let&aspos;s embark on
             the journey to an optimally organized and efficient working
             environment together.{" "}
           </p>
@@ -495,7 +495,7 @@ const process = () => {
           </h3>
           <p className="text-xl">
             Before making recommendations or introducing systems, we thoroughly
-            analyze your current document flow and identify your company's
+            analyze your current document flow and identify your company&aspos;s
             specific requirements.{" "}
           </p>
 
@@ -504,7 +504,7 @@ const process = () => {
           </h3>
           <p className="text-xl">
             Before making recommendations or introducing systems, we thoroughly
-            analyze your current document flow and identify your company's
+            analyze your current document flow and identify your company&aspos;s
             specific requirements.{" "}
           </p>
 
@@ -515,7 +515,7 @@ const process = () => {
             A DMS is only as good as the people who use it. Therefore, we
             provide comprehensive training for your team and ensure a smooth
             implementation, allowing your company to fully benefit from the
-            system's advantages.{" "}
+            system&aspos;s advantages.{" "}
           </p>
 
           <h3 className="font-extrabold font-sans2 text-2xl mt-3 ">
@@ -553,7 +553,7 @@ const process = () => {
             just a luxury but a necessity. ERP systems (Enterprise Resource
             Planning) provide this integration by offering a centralized
             information source for all business functions. Regardless of your
-            company's size, the right ERP solution can make a significant
+            company&aspos;s size, the right ERP solution can make a significant
             difference in your operational efficiency.{" "}
           </p>
 
@@ -584,8 +584,8 @@ const process = () => {
             For Businesses of All Sizes
           </h3>
           <p className="text-xl">
-            Whether you're a small startup or an established large enterprise,
-            we firmly believe that there's an ERP system tailored to your needs.
+            Whether you&aspos;re a small startup or an established large enterprise,
+            we firmly believe that there&aspos;s an ERP system tailored to your needs.
             Companies of all sizes can benefit from the advantages of an ERP
             system: improved efficiency, centralized data, and optimized
             business processes.
@@ -597,7 +597,7 @@ const process = () => {
           <p className="text-xl">
             A system is only as strong as the people who use it. Therefore, we
             provide extensive training for your team and ensure they are
-            familiar with all the ERP system's features.
+            familiar with all the ERP system&aspos;s features.
           </p>
 
           <h3 className="font-extrabold font-sans2 text-2xl mt-3 ">
@@ -617,7 +617,7 @@ const process = () => {
             access information in real-time, leading to improved
             decision-making, more efficient workflows, and ultimately, increased
             business success. Rely on our expertise to find and implement the
-            perfect ERP system for your company. Let's revolutionize your
+            perfect ERP system for your company. Let&aspos;s revolutionize your
             business processes together and prepare your company for future
             challenges.{" "}
           </p>

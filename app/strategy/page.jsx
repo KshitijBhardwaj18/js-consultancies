@@ -24,7 +24,7 @@ const strategic = () => {
           </h3>
           <p className="font-sans pt-5 text-xl ">
             A stable foundation is the basis for any successful structure. The
-            same applies to businesses: a thorough understanding of one's own
+            same applies to businesses: a thorough understanding of one&aspos;s own
             structures, strengths, and weaknesses forms the foundation for
             sustainable business success. With our business analysis, we offer
             you precisely this solid foundation—a clear and precise view of your
@@ -248,7 +248,7 @@ const strategic = () => {
                 </h3>
 
                 <p className="text-xl">
-                  Your customer's voice is crucial. We analyze customer trends,
+                  Your customer&aspos;s voice is crucial. We analyze customer trends,
                   needs, and behaviors to get a clear picture of target groups
                   and their preferences.{" "}
                 </p>
@@ -287,7 +287,7 @@ const strategic = () => {
 
         <div className="big-big-pointer pt-5">
           <h3 className="sub-heading  font-sans2 text-3xl pt-3 ">
-            Competitive Analysis: Masterfully Understanding Your Competitors'
+            Competitive Analysis: Masterfully Understanding Your Competitors&aspos;
             Moves
           </h3>
           <p className="font-sans pt-3 text-xl ">
@@ -295,7 +295,7 @@ const strategic = () => {
             pursues its strategies and goals. To claim and expand your place in
             this complex landscape, it is essential to deeply understand the
             actions and motivations of your competitors. Our competitive
-            analysis sharpens your view of the playing field, ensuring you're
+            analysis sharpens your view of the playing field, ensuring you&aspos;re
             always one step ahead. Our approach to competitive analysis
           </p>
 
@@ -361,7 +361,7 @@ const strategic = () => {
                   recommendations to play out your competitive advantages and
                   distinctively differentiate from others. In the complex game
                   of market competition, you need a clear understanding of each
-                  player. With our competitive analysis, you're not just
+                  player. With our competitive analysis, you&aspos;re not just
                   well-informed but can act strategically and with an overview.{" "}
                 </p>
               </div>

@@ -58,7 +58,7 @@ const training = () => {
 
           <p className="font-sans pt-5 text-xl ">
             Investing in the training of an internal QMR is an investment in the
-            future of your company. Let's work together to ensure that your
+            future of your company. Let&aspos;s work together to ensure that your
             prospective QMR is optimally prepared for the challenging and
             pivotal role they will play in your organization.
           </p>
@@ -76,7 +76,7 @@ const training = () => {
           </p>
 
           <p className="font-sans pt-5 text-xl ">
-            With our "Training for Career Changers" program, we tap into the
+            With our &rdquo;Training for Career Changers&aspos; program, we tap into the
             existing knowledge within your company. Your employees not only know
             the company culture and values but are also well-acquainted with
             internal procedures, processes, and communication channels. This
@@ -87,7 +87,7 @@ const training = () => {
           </p>
 
           <p className="font-sans pt-5 text-xl ">
-            For us, it's not just about closing skill gaps. We aim to foster a
+            For us, it&aspos;s not just about closing skill gaps. We aim to foster a
             culture of learning and cohesion, enhancing employee engagement and
             retention. And time and again, it has been proven: Customized,
             internal training measures lead to better outcomes and increased
@@ -95,9 +95,9 @@ const training = () => {
           </p>
 
           <p className="font-sans pt-5 text-xl ">
-            By investing in "Training for Career Changers," you leverage the
+            By investing in &rdquo;Training for Career Changers&rdquo; you leverage the
             strengths of your own employees while simultaneously building a
-            sustainable future for your company. Let's tap into this potential
+            sustainable future for your company. Let&aspos;s tap into this potential
             together.
           </p>
         </div>
