@@ -1,3 +1,6 @@
+"use client"
+
+
 import React from "react";
 import strategy from "@/public/assets/strategy.png";
 import solution2 from "@/public/assets/solution2.png";

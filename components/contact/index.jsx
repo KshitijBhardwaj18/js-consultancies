@@ -1,3 +1,5 @@
+"use client"
+
 import react from "react";
 import { OutlinedInput } from "@mui/material";
 

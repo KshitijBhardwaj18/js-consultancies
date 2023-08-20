@@ -1,3 +1,5 @@
+"use client"
+
 import React from "react";
 import Image from "next/image";
 import feature1 from "@/public/assets/feature1.png";

@@ -1,3 +1,6 @@
+"use client"
+
+
 import Item from "./Item";
 import { Se, Q, P, A } from "./Menus";
 const ItemsContainer = () => {

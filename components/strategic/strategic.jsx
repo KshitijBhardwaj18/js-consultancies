@@ -1,3 +1,5 @@
+"use client"
+
 import React from "react";
 import Nav from "../nav";
 import banner from "@/components/banner/index";
