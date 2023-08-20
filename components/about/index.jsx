@@ -19,14 +19,14 @@ const About = () => {
           <div className="pointer-header flex  bg-slate-200 flex-row bg-grey rounded-3xl ">
             <div className="rounded-3xl p-2 text-white bg-black ">01</div>
             <div className="font-bold font-sans p-2">
-              Costumised Business Solutions
+            Collaborative Approach:
             </div>
           </div>
 
           <div className="subtext text-co pl-3">
-            See how your day-to-day tasks fit into the wider vision. Go from
-            tracking progress at the milestone level all the way down to the
-            smallest of details. Never lose sight of the bigger picture again
+          Content: At our consultancy, collaboration isn&apos;t just a buzzword – it&apos;s a cornerstone of our process. We don&apos;t just advise; we become an extension of your team, working seamlessly to co-create solutions. This approach fosters a deep understanding of your business and ensures our strategies are aligned with your vision.
+
+
           </div>
         </div>
       
@@ -35,14 +35,18 @@ const About = () => {
         <div className="pointer-header flex flex-row bg-slate-200 rounded-3xl ">
           <div className="rounded-3xl p-2 text-white bg-black ">01</div>
           <div className="font-bold font-sans p-2">
-            Costumised Business Solutions
+          Agility in Adversity:
+
+
           </div>
         </div>
 
         <div className="subtext text-co pl-3 ">
-          See how your day-to-day tasks fit into the wider vision. Go from
-          tracking progress at the milestone level all the way down to the
-          smallest of details. Never lose sight of the bigger picture again
+        Markets change, challenges arise, but our consultancy equips you with the agility to thrive amidst adversity. Our adaptable strategies and contingency planning empower your business to navigate uncertainties and emerge stronger.
+
+
+
+
         </div>
       </div>
 
@@ -50,14 +54,16 @@ const About = () => {
         <div className="pointer-header flex flex-row bg-slate-200 rounded-3xl ">
           <div className="rounded-3xl p-2 text-white bg-black ">01</div>
           <div className="font-bold font-sans p-2">
-            Costumised Business Solutions
+          Global Insights, Local Implementation:
           </div>
         </div>
 
         <div className="subtext text-co pl-3 ">
-          See how your day-to-day tasks fit into the wider vision. Go from
-          tracking progress at the milestone level all the way down to the
-          smallest of details. Never lose sight of the bigger picture again
+        Content: Beyond profits, were driven by purpose. Our consultancy integrates sustainability and social responsibility into every solution. From optimizing operations for eco-friendliness to contributing to local communities, we help you make a positive impact while achieving your business goals.
+
+
+
+
         </div>
       </div>
 
@@ -65,14 +71,17 @@ const About = () => {
         <div className="pointer-header flex flex-row bg-slate-200 rounded-3xl ">
           <div className="rounded-3xl p-2 text-white bg-black ">01</div>
           <div className="font-bold font-sans p-2">
-            Costumised Business Solutions
+          Data-Driven Precision:
+
           </div>
         </div>
 
         <div className="subtext text-co pl-3 ">
-          See how your day-to-day tasks fit into the wider vision. Go from
-          tracking progress at the milestone level all the way down to the
-          smallest of details. Never lose sight of the bigger picture again
+        Content: In the era of data, we stand out by harnessing its power with precision. Our analytical prowess transforms raw data into actionable insights, guiding decisions that lead to tangible results. From market trends to customer behavior, we leverage data to steer your success.
+
+
+
+
         </div>
       </div>
     </div>

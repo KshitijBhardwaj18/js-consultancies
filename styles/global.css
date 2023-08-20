@@ -9,6 +9,17 @@
     font-weight: 400;
 }
 
+.font-sans1 {
+    font-family: 'Inter', sans-serif;
+    font-weight: 550;
+}
+
+.font-sans2 {
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+}
+
+
 .text-blue{
     background-color: white;
     opacity: 0.2;
@@ -33,4 +44,8 @@
 .bg{
     background-color: #f0f0f3;
     /* opacity: 0.6; */
+}
+
+.mt-1 {
+    margin-top: 0.1rem/* 4px */;
 }

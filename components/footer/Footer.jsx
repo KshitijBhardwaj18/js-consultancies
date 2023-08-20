@@ -21,7 +21,7 @@ const Footer = () => {
            sm:w-72 w-full sm:mr-5 mr-1 lg:mb-0 mb-4 py-2.5 rounded px-2 focus:outline-none"
           />
           <button
-            className="bg-black rounded-3xl hover:bg-teal-500 duration-300 px-5 py-2.5 font-[Poppins]
+            className="bg-black rounded-3xl hover:bg-teal-500 duration-300 px-5 py-2.5 font-sans
             text-white md:w-auto w-full"
           >
             contact

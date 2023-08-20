@@ -13,18 +13,25 @@ import Sub from '@/components/sub/index.jsx'
 import Footer from '@/components/footer/Footer.jsx'
 import Map from '@/components/map/index.jsx'
 
+import Strategic from '@/components/strategic/strategic'
+import banner2 from "@/public/assets/scene2.jpg"
+
 
 
 const Home = () =>  {
   return (
-    <div>
+    <div className=''>
       <Nav />
+      
       <Hero />
       <Solution/>
-      <Contact />
+      
+      
       <Feature/>
+      
       <About/>
-      <Sub/>
+      {/* <Sub/> */}
+      <Contact />
       {/* <Map/> */}
       <Footer/>
     </div>

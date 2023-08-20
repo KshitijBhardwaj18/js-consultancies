@@ -1,23 +1,22 @@
-export const PRODUCTS = [
-  { name: "Drag And Drop", link: "#" },
-  { name: "Visual Studio X", link: "#" },
-  { name: "Easy Content", link: "#" },
+export const Se = [
+  { name: "Analysis of the company", link: "#" },
+  { name: "Analysis of the market", link: "#" },
+  { name: "Competitive analysis", link: "#" },
 ];
-export const RESOURCES = [
-  { name: "Industries and tools", link: "#" },
-  { name: "Use cases", link: "#" },
-  { name: "Blog", link: "#" },
-  { name: "Online evenet", link: "#" },
-  { name: "Nostrud exercitation", link: "#" },
+export const Q = [
+  { name: "Support and optimisation", link: "#" },
+  { name: "Remote Audit", link: "#" },
+  
+  { name: "Conducting internal audits", link: "#" },
+  { name: "External QMR", link: "#" },
 ];
-export const COMPANY = [
-  { name: "Diversity & inclusion", link: "#" },
-  { name: "About us", link: "#" },
-  { name: "Press", link: "#" },
-  { name: "Customer Stories", link: "#" },
-  { name: "Online communities", link: "#" },
+export const P = [
+  { name: "Analysing processes ", link: "#" },
+  { name: "Risk management", link: "#" },
+  { name: "Supplier management ", link: "#" },
+  
 ];
-export const SUPPORT = [
+export const A = [
   { name: "Documentation", link: "#" },
   { name: "Tutorials & guides", link: "#" },
   { name: "Webinars", link: "#" },
