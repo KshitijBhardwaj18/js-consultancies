@@ -74,18 +74,19 @@ const Create = () => {
                   required
                 />
                 <OutlinedInput
-                  className="input bg-white rounded-xl text-blue placeholder:text-white placeholder:capitalize h-96   "
+                  className="input bg-white rounded-xl text-blue fontsans2 placeholder:text-white placeholder:capitalize  p-2 h-96 text-2xl text-center"
                   label="Text"
                   multiline="true"
-                  placeholder="Address"
+                  placeholder="Description"
                   id="description"
                   value={description}
                   onChange={handleDescriptionChange}
                   required
                 />
+                
               </div>
 
-              <div className="button">
+              <div className="button mt-5">
                 <div className="button-contact   bg-white p-5 text-white  rounded-full px-10 text-center">
                   <button
                   type="submit"
