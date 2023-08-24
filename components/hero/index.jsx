@@ -6,7 +6,10 @@ import Image from "next/image";
 import banner2 from "@/public/assets/scene2.jpg"
 
 const Hero = () => {
+
   return (
+
+    
     <div className="hero  flex flex-col-reverse items-center   mt-1 mx-auto  space-y-0 md:space-y-0 md:flex-row justify-between">
       
       <div className="left flex flex-col space-y-12 md:w-1/2 md:pl-50 ">

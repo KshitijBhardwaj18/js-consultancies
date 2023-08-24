@@ -4,6 +4,50 @@
 @tailwind components;
 @tailwind utilities;
 
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+@keyframes slideDiagonal {
+    0% {
+      transform: translate(-100%, -100%);
+      opacity: 0;
+    }
+    100% {
+      transform: translate(0, 0);
+      opacity: 1;
+    }
+  }
+  
+  .animate-slideDiagonal {
+    animation: slideDiagonal 0.3s ease-in-out;
+  }
+
+@keyframes fadeInSlideDownFromTop {
+    0% {
+      transform: translateY(-100%);
+      opacity: 0;
+    }
+    100% {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+  
+  .animate-fadeInSlideDownFromTop {
+    animation: fadeInSlideDownFromTop 0.3s ease-in-out;
+  }
+    
+
 .font-sans {
     font-family: 'Inter', sans-serif;
     font-weight: 400;
@@ -19,6 +63,9 @@
     font-weight: 700;
 }
 
+.backdrop-blur {
+    backdrop-filter: blur(10px); /* Adjust the blur radius as needed */
+  }
 
 .text-blue{
     background-color: white;

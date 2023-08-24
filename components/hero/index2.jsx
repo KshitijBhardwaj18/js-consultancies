@@ -1,22 +1,36 @@
 "use client";
 import React from "react";
+
+import hero from "@/public/assets/hero.svg";
+import Image from "next/image";
+import banner2 from "@/public/assets/scene2.jpg";
 import { useState } from "react";
 
 import logo from "@/public/assets/logo1.png";
-import Image from "next/image";
 
 import { Drawer, Box, Button, Typography, IconButton } from "@mui/material";
 
 import MenuIcon from "@mui/icons-material/Menu";
 import Popup from "@/components/popup/popup.jsx";
+import { Dropdown } from '@mui/base/Dropdown';
+import { Menu } from '@mui/base/Menu';
+import { MenuButton } from '@mui/base/MenuButton';
+import { MenuItem, menuItemClasses } from '@mui/base/MenuItem';
 
-const Nav = () => {
-  const [isDrawerOpen, setIsDrawerOpen] = useState(false);
+
+const Hero = () => {
+    const [isDrawerOpen, setIsDrawerOpen] = useState(false);
   const [isPopUpOpen, setIsPopUpOpen] = useState(false);
+  const[left,setLeft] = useState("");
+  const[Top,setTop] = useState("");
+  
+
+
 
   return (
+    <>
     <div>
-      <nav className="navebar backdrop-filter-none  rounded-full m-10  border-2 border-zinc-200 bg-white p-3 mx-10 ">
+      <nav className="navebar backdrop-filter-none  rounded-full m-10  border-2 border-zinc-200 bg-white p-3 mx-10  backdrop-blur-sm bg-opacity-80">
         <div className=" mx-auto flex justify-between items-center">
           <div className="logo">
             <a href="/">
@@ -31,19 +45,34 @@ const Nav = () => {
           <div className="links  gap-5 font-sans2 hidden   xl:flex ">
             <a
               href="/strategy"
-              className="links-item font-sans  "
-              onMouseEnter={() => setIsPopUpOpen(true)}
-              onMouseOut={() => setIsPopUpOpen(false)}
+              classN0ame="links-item font-sans  "
+              onMouseEnter={() =>{ setIsPopUpOpen(true);
+              setLeft("left-36");
+            setTop("top-36")}
+            }
+              onMouseOut={() => {setIsPopUpOpen(false)
+              }}
+              
               
             >
               Strategic Consulting
             </a>
 
-            <a href="/quality" className="links-item font-sans ">
-              Quality Management
+            <a href="/quality" className="links-item font-sans " onMouseEnter={() =>{ setIsPopUpOpen(true);
+              setLeft("left-[25rem]");
+            setTop("top-36")}
+            }
+              onMouseOut={() => {setIsPopUpOpen(false)
+              }}>
+            Quality Management
             </a>
 
-            <a href="/process" className="links-item font-sans ">
+            <a href="/process" className="links-item font-sans  "  onMouseEnter={() =>{ setIsPopUpOpen(true);
+              setLeft("left-[30rem]");
+            setTop("top-36")}
+            }
+              onMouseOut={() => {setIsPopUpOpen(false)
+              }}>
               Process Management
             </a>
 
@@ -146,9 +175,39 @@ const Nav = () => {
         </div>
       </nav>
 
-      {isPopUpOpen && <Popup className="absolute   backdrop-blur z-50  " onMouseEnter={() => setIsPopUpOpen(true)}  />}
+      
+
+      <div className="hero  flex flex-col-reverse items-center   mt-1 mx-auto  space-y-0 md:space-y-0 md:flex-row justify-between">
+        <div className="left flex flex-col space-y-12 md:w-1/2 md:pl-50 ">
+          <h1 className="max-w-md font-sans text-5xl font-bold text-center md:text-7xl md:text-left  reveal-text md:pl-20  md:max-w-7xl md:text-10xl ">
+            Sternberg Consultancy
+          </h1>
+
+          <div>
+            <p class="max-w-sm mx-auto text-center md:mx-0 text-darkGrayishBlue md:text-left md:pl-20">
+              Sternbergs consultancy is solution to every business problem you
+              are tackiling with. We are here to provide you customized
+              solutions for your need.
+            </p>
+          </div>
+
+          <div className="button-contact   bg-black p-5 text-white  rounded-full px-10 w-36 md:ml-20 mx-auto ">
+            <a href="" className="button-contact-text text-white font-sans  ">
+              Contact
+            </a>
+          </div>
+        </div>
+
+        <div className="right p-4 xl:mr-10">
+          <Image src={hero} alt="image" className="image" />
+        </div>
+      </div>
+      {isPopUpOpen && <Popup top={Top} left={left}  
+      className="" onMouseEnter={() => setIsPopUpOpen(true)}  />}
     </div>
+    </>
   );
 };
 
-export default Nav;
+export default Hero;
+

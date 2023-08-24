@@ -19,7 +19,7 @@ const Quality = () => (
           <h3 className="sub-heading  font-sans2 text-3xl pt-5 ">
             Establishment and implementation of a QM system
           </h3>
-        </div>
+        
 
         <div className="para font-sans text-xl pt-3">
           <span className="sub font-sans2">
@@ -244,6 +244,7 @@ const Quality = () => (
        
       </div>
       <Footer className="mt-5"/>
+    </div>
     </div>
     </div>
   </>
